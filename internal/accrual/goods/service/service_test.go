@@ -8,8 +8,8 @@ import (
 	"github.com/shopspring/decimal"
 	"github.com/stretchr/testify/require"
 
-	"github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/model"
-	mock "github.com/CimaCha/gophermart-loyal-service/internal/accrual/goods/service/mock"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/model"
+	mock "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/service/mock"
 )
 
 func TestService_RegisterGoods(t *testing.T) {

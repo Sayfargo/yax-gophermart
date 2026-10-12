@@ -10,8 +10,8 @@ import (
 	"strings"
 	"testing"
 
-	mock "github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/handler/mock"
-	"github.com/CimaCha/gophermart-loyal-service/internal/gophermart/user/service"
+	mock "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/handler/mock"
+	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/service"
 
 	testifymock "github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
