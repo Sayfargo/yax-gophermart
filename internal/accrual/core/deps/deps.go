@@ -6,10 +6,10 @@ import (
 	"errors"
 	"log/slog"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/config"
-	goodsh "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/handler"
-	ordersh "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/order/handler"
-	"github.com/Sayfargo/gophermart-loyal-service/pkg/ratelimitstore"
+	"github.com/Sayfargo/yax-gophermart/internal/accrual/config"
+	goodsh "github.com/Sayfargo/yax-gophermart/internal/accrual/goods/handler"
+	ordersh "github.com/Sayfargo/yax-gophermart/internal/accrual/order/handler"
+	"github.com/Sayfargo/yax-gophermart/pkg/ratelimitstore"
 )
 
 var (

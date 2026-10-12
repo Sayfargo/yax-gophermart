@@ -7,9 +7,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/config"
-	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/core/app"
-	"github.com/Sayfargo/gophermart-loyal-service/pkg/slogger"
+	"github.com/Sayfargo/yax-gophermart/internal/accrual/config"
+	"github.com/Sayfargo/yax-gophermart/internal/accrual/core/app"
+	"github.com/Sayfargo/yax-gophermart/pkg/slogger"
 )
 
 func main() {

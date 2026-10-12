@@ -3,8 +3,8 @@
 package router
 
 import (
-	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/core/deps"
-	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/transport/http/middleware"
+	"github.com/Sayfargo/yax-gophermart/internal/accrual/core/deps"
+	"github.com/Sayfargo/yax-gophermart/internal/accrual/transport/http/middleware"
 	"github.com/go-chi/chi/v5"
 	chimiddleware "github.com/go-chi/chi/v5/middleware"
 )

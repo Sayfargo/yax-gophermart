@@ -9,11 +9,11 @@ import (
 
 	"github.com/caarlos0/env/v11"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/worker"
-	"github.com/Sayfargo/gophermart-loyal-service/pkg/httpserver"
-	"github.com/Sayfargo/gophermart-loyal-service/pkg/postgres"
-	"github.com/Sayfargo/gophermart-loyal-service/pkg/ratelimitstore"
-	"github.com/Sayfargo/gophermart-loyal-service/pkg/slogger"
+	"github.com/Sayfargo/yax-gophermart/internal/accrual/worker"
+	"github.com/Sayfargo/yax-gophermart/pkg/httpserver"
+	"github.com/Sayfargo/yax-gophermart/pkg/postgres"
+	"github.com/Sayfargo/yax-gophermart/pkg/ratelimitstore"
+	"github.com/Sayfargo/yax-gophermart/pkg/slogger"
 )
 
 // Config объединяет в себе все конфигурационные подсистемы приложения:

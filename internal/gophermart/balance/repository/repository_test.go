@@ -5,9 +5,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/balance/model"
-	"github.com/Sayfargo/gophermart-loyal-service/internal/testenv"
-	gophermartMigrations "github.com/Sayfargo/gophermart-loyal-service/migrations/gophermart"
+	"github.com/Sayfargo/yax-gophermart/internal/gophermart/balance/model"
+	"github.com/Sayfargo/yax-gophermart/internal/testenv"
+	gophermartMigrations "github.com/Sayfargo/yax-gophermart/migrations/gophermart"
 	"github.com/google/uuid"
 	"github.com/jackc/pgx/v5/pgxpool"
 	"github.com/shopspring/decimal"

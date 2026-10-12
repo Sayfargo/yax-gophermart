@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Sayfargo/gophermart-loyal-service/pkg/ratelimitstore"
+	"github.com/Sayfargo/yax-gophermart/pkg/ratelimitstore"
 	"github.com/stretchr/testify/require"
 )
 

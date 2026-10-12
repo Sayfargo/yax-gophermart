@@ -11,8 +11,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/order/model"
-	ordersvc "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/order/service"
+	"github.com/Sayfargo/yax-gophermart/internal/accrual/order/model"
+	ordersvc "github.com/Sayfargo/yax-gophermart/internal/accrual/order/service"
 	"github.com/go-chi/chi/v5"
 	"github.com/shopspring/decimal"
 	"github.com/stretchr/testify/assert"

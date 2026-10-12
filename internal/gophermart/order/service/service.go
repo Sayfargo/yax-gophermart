@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"log/slog"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/model"
-	orderrepo "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/repository"
+	"github.com/Sayfargo/yax-gophermart/internal/gophermart/order/model"
+	orderrepo "github.com/Sayfargo/yax-gophermart/internal/gophermart/order/repository"
 	"github.com/google/uuid"
 )
 

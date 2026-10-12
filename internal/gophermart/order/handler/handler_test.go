@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/model"
-	ordersvc "github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/service"
-	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/transport/ctxkeys"
+	"github.com/Sayfargo/yax-gophermart/internal/gophermart/order/model"
+	ordersvc "github.com/Sayfargo/yax-gophermart/internal/gophermart/order/service"
+	"github.com/Sayfargo/yax-gophermart/internal/gophermart/transport/ctxkeys"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"
 	mock "github.com/stretchr/testify/mock"

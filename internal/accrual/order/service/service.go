@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"log/slog"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/order/model"
-	orderrepo "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/order/repository"
+	"github.com/Sayfargo/yax-gophermart/internal/accrual/order/model"
+	orderrepo "github.com/Sayfargo/yax-gophermart/internal/accrual/order/repository"
 )
 
 // OrderNotifier определяет интерфейс для асинхронного оповещения фоновых систем (воркеров)

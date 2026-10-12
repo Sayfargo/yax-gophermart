@@ -7,7 +7,7 @@ package service
 import (
 	"context"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/model"
+	"github.com/Sayfargo/yax-gophermart/internal/gophermart/order/model"
 	"github.com/google/uuid"
 	mock "github.com/stretchr/testify/mock"
 )

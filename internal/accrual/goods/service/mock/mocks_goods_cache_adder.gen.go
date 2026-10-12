@@ -5,7 +5,7 @@
 package service
 
 import (
-	"github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/model"
+	"github.com/Sayfargo/yax-gophermart/internal/accrual/goods/model"
 	mock "github.com/stretchr/testify/mock"
 )
 

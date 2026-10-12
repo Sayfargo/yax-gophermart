@@ -9,9 +9,9 @@ import (
 
 	_ "embed"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/worker"
-	"github.com/Sayfargo/gophermart-loyal-service/pkg/ratelimitstore"
-	"github.com/Sayfargo/gophermart-loyal-service/pkg/slogger"
+	"github.com/Sayfargo/yax-gophermart/internal/gophermart/worker"
+	"github.com/Sayfargo/yax-gophermart/pkg/ratelimitstore"
+	"github.com/Sayfargo/yax-gophermart/pkg/slogger"
 )
 
 type yamlConfig struct {

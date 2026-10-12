@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/Sayfargo/gophermart-loyal-service/pkg/http/httpio"
+	"github.com/Sayfargo/yax-gophermart/pkg/http/httpio"
 )
 
 // GzipCompress возвращает Middleware, которое автоматически распаковывает входящие запросы

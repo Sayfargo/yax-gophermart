@@ -10,7 +10,7 @@ import (
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgconn"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/user/model"
+	"github.com/Sayfargo/yax-gophermart/internal/gophermart/user/model"
 	"github.com/jackc/pgx/v5/pgxpool"
 )
 

@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Sayfargo/gophermart-loyal-service/internal/gophermart/order/model"
+	"github.com/Sayfargo/yax-gophermart/internal/gophermart/order/model"
 	"github.com/google/uuid"
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgxpool"

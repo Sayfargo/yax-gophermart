@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	goodsmodel "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/goods/model"
-	ordermodel "github.com/Sayfargo/gophermart-loyal-service/internal/accrual/order/model"
+	goodsmodel "github.com/Sayfargo/yax-gophermart/internal/accrual/goods/model"
+	ordermodel "github.com/Sayfargo/yax-gophermart/internal/accrual/order/model"
 	"github.com/shopspring/decimal"
 )
 

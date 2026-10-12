@@ -1,4 +1,4 @@
-module github.com/Sayfargo/gophermart-loyal-service
+module github.com/Sayfargo/yax-gophermart
 
 go 1.26.5
 
